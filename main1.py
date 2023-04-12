@@ -18,6 +18,7 @@ import geocoder
 from geopy.geocoders import Nominatim
 import re
 
+#print("Intial updated")
 
 # logging.basicConfig(filename='apollo_log.log',level=logging.DEBUG,
 # format='%(asctime)s:%(levelname)s:%(message)s')
